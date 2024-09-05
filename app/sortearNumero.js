@@ -13,6 +13,6 @@ const elementoMenorValor = document.getElementById
 ('menor-valor')
 elementoMenorValor.innerHTML = menorValor
 
-const elementoMenorValor = document.getElementById
+const elementoMaiorValor = document.getElementById
 ('maior-valor')
-elementoMenorValor.innerHTML = maiorValor
+elementoMaiorValor.innerHTML = maiorValor
