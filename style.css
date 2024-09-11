@@ -50,3 +50,8 @@ h3{
     padding: 10px;
     margin: 10px;
 }
+
+h2{
+    font-size: 4em;
+    color: var(--vermelho)
+}
